@@ -5,13 +5,25 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
+
 
 
 # Virtual environments
 .venv
 ai_env
-
+venv_two
 
 #Misc
 ai_labs/Ashesi-CS254-Introduction-To-Artificial-Intelligence-Supervised-Learning-Lab-Work/
 .DS_Store
+
+
+#Old files
+ai_labs/DL
+ai_labs/Quainoo_Albert_Lab0
+Quainoo_Albert_Lab1
+Quainoo_Albert_Lab2
+environment_test.py
+pyproject.toml
+README.md
